@@ -21,6 +21,7 @@
 **第 0003 题：**将 0001 题生成的 200 个激活码（或者优惠券）保存到 **Redis** 非关系型数据库中。 
 
 **第 0004 题：**任一个英文的纯文本文件，统计其中的单词出现的个数。
+[源码(Python)](http://github.com/Yannyezixin/gadget/blob/master/2014-12-8-0004/python/statisticsLetter-v1.py)
 
 **第 0005 题：**你有一个目录，装了很多照片，把它们的尺寸变成都不大于 iPhone5 分辨率的大小。
 
