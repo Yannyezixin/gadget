@@ -13,17 +13,17 @@
 
 ![头像](http://i.imgur.com/sg2dkuY.png?1)
 
-**第 0001 题：**做为 Apple Store App 独立开发者，你要搞限时促销，为你的应用**生成激活码**（或者优惠券），使用 Python 如何生成 200 个激活码（或者优惠券）？
+-   [x] **第 0001 题：**做为 Apple Store App 独立开发者，你要搞限时促销，为你的应用**生成激活码**（或者优惠券），使用 Python 如何生成 200 个激活码（或者优惠券）？
 [源码(Python)](http://github.com/Yannyezixin/gadget/blob/master/2014-12-7-0001/python/activationCode.py)
 
-**第 0002 题**：将 0001 题生成的 200 个激活码（或者优惠券）保存到 **MySQL** 关系型数据库中。 
+-   [x] **第 0002 题**：将 0001 题生成的 200 个激活码（或者优惠券）保存到 **MySQL** 关系型数据库中。 
 
 **第 0003 题：**将 0001 题生成的 200 个激活码（或者优惠券）保存到 **Redis** 非关系型数据库中。 
 
-**第 0004 题：**任一个英文的纯文本文件，统计其中的单词出现的个数。
+-   [x] **第 0004 题：**任一个英文的纯文本文件，统计其中的单词出现的个数。
 [源码(Python)](http://github.com/Yannyezixin/gadget/blob/master/2014-12-8-0004/python/statisticsLetter-v1.py)
 
-**第 0005 题：**你有一个目录，装了很多照片，把它们的尺寸变成都不大于 iPhone5 分辨率的大小。
+-   [x] **第 0005 题：**你有一个目录，装了很多照片，把它们的尺寸变成都不大于 iPhone5 分辨率的大小。[源码(python)](https://github.com/Yannyezixin/gadget/blob/master/2014-12-10-0005/python/zoom.py)
 
 **第 0006 题：**你有一个目录，放了你一个月的日记，都是 txt，为了避免分词的问题，假设内容都是英文，请统计出你认为每篇日记最重要的词。
 
